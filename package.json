@@ -1,0 +1,32 @@
+{
+  "name": "botbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "@google-cloud/storage": "^7.11.1",
+    "better-sqlite3": "^8.7.0",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.0.3",
+    "dropbox": "^10.34.0",
+    "google-auth-library": "^9.14.1",
+    "google-spreadsheet": "^4.1.4",
+    "googleapis": "^137.1.0",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^7.2.1",
+    "node-gyp": "^10.2.0",
+    "saphire": "^1.0.0",
+    "sequelize": "^6.31.1",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  }
+}
