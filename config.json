@@ -1,5 +1,5 @@
 {
-    "token": "REPLACE WITH YOUR DISCORD TOKEN",
+    "token": "REPLACE WITH YOUR DISCORD BOT TOKEN",
     "clientId": "REPLACE WITH BOT CLIENT ID",
     "guildId": "REPLACE WITH DISCORD SERVER GUILD ID",
     "database": {
