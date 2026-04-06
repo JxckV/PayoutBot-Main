@@ -5,7 +5,7 @@ This is a re-developed version of Venni's STRP Payout Bot. If you are looking to
 
 .jack1111 - Replies might be limited due to work hours. 
 
-Theres a few libraries you'll need to install to make this work. I think the main ones are sqlite3 and discordjs(obvisouly). You'll also need to change the color/name of each output to match the name of your gang. 
+Theres a few libraries you'll need to install to make this work. I think the main ones are sqlite3 and discordjs (latest). You'll also need to change the color/name of each output to match the name of your gang. 
 
 Be sure to add a role named: "Discord-Admin" to run any of the commands that make changes etc.
 
